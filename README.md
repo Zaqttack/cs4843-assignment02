@@ -12,6 +12,7 @@
 
 * servers.yml
 * start.sh
+* vpc drawing.drawio.png
 
 ### documentation
 
